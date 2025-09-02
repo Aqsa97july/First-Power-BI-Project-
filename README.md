@@ -1,4 +1,4 @@
-Forggith Pharmaceuticals (Forggith) is a Pharmaceutical Manufacturing company Dachboard. 
+Forggith Pharmaceuticals is a Pharmaceutical Manufacturing company based in Germany this Dashboard is designed for their requirements.
 
 **Key Features**
 Revenue Tracking: Visualizes targeted vs. achieved revenue for each sales rep.
